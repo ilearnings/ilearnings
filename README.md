@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Streak Stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- <div align="center">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
       width="50%"
     />
   </picture>
-</div> -->
+</div>
 
 <!-- GitHub Contribution Grid Animation -->
 <div align="center">
@@ -83,5 +83,5 @@ Here are some ideas to get you started:
 <!-- GitHub Profile Views Counter -->
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="123" />
+  <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="访问人数" />
 </div>
