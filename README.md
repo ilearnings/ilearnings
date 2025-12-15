@@ -55,8 +55,6 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-<br>
-
 <!-- 3. GitHub Readme Streak Stats ; https://github.com/denvercoder1/github-readme-streak-stats -->
 <div align="center">
   <picture>
