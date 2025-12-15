@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
+<br>
+
 <!-- Card -->
 <table align="center" width="100%">
   <tr>
@@ -82,6 +84,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
+
+<br>
 
 <!-- 5. GitHub Profile Views Counter ; https://github.com/antonkomarev/github-profile-views-counter -->
 <div align="right">
