@@ -17,10 +17,6 @@
           src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
           width="100%"
         />
-      </picture>
-    </td>
-    
-    <!-- 右侧：GitHub Readme Streak Stats -->
     <td align="center" width="50%">
       <picture>
         <source
