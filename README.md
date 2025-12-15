@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Stats Card -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <div align="center">
   <picture>
     <source
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- GitHub Readme Streak Stats -->
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- <div align="center">
   <picture>
     <source
@@ -73,6 +75,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Technology Stack -->
+<!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
