@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats Card -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
+<div align="left">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Streak Stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-<div align="center">
+<div align="right">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
