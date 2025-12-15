@@ -1,5 +1,8 @@
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div style="width: 48%;">
+<!-- 使用Flexbox容器 -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
+  
+  <!-- 左侧卡片容器 -->
+  <div style="flex: 1; min-width: 300px; max-width: 50%;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -12,12 +15,13 @@
       <img
         alt="gitHub-stats-card"
         src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
-        style="width: 45%;"
+        style="width: 100%;"
       />
     </picture>
   </div>
   
-  <div style="width: 48%;">
+  <!-- 右侧卡片容器 -->
+  <div style="flex: 1; min-width: 300px; max-width: 50%;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -30,8 +34,9 @@
       <img
         alt="gitHub-readme-streak-stats"
         src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
-        style="width: 45%;"
+        style="width: 100%;"
       />
     </picture>
   </div>
+  
 </div>
