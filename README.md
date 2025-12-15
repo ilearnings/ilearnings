@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-<br></br>
+<br>
 
 <!-- GitHub Readme Streak Stats ; https://github.com/denvercoder1/github-readme-streak-stats -->
 <div align="center">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-<br></br>
+<br>
 
 <!-- Technology Stack ; https://github.com/tandpfun/skill-icons -->
 <div align="center">
