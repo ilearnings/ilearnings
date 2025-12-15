@@ -57,7 +57,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
 <!-- 3. GitHub Readme Streak Stats ; https://github.com/denvercoder1/github-readme-streak-stats -->
 <div align="center">
   <picture>
