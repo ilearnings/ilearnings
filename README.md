@@ -85,8 +85,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
 
-<br>
-
 <!-- 5. GitHub Profile Views Counter ; https://github.com/antonkomarev/github-profile-views-counter -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="Profile Views" />
