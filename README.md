@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- GitHub Stats Card -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  <picture style="display: inline-block; width:49%; margin-right: 1%">
+  <picture style="display: inline-block; width:45%; margin-right: 1%">
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=dracula&username=ilearnings"
@@ -30,13 +30,13 @@ Here are some ideas to get you started:
     <img
       alt="gitHub-stats-card"
       src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
-      width="50%"
+      width="100%"
     />
   </picture>
 
 <!-- GitHub Readme Streak Stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-  <picture style="display: inline-block; width:49%; margin-left: 1%">
+  <picture style="display: inline-block; width:45%; margin-left: 1%">
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=dracula&user=ilearnings"
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img
       alt="gitHub-readme-streak-stats"
       src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
-      width="50%"
+      width="100%"
     />
   </picture>
 </div>
