@@ -74,5 +74,5 @@ Here are some ideas to get you started:
 
 <!-- Technology Stack -->
 <div align="center">
-  <img src="[https://skillicons.dev/icons?i=linux,raspberrypi,vscode,neovim,python](https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perlinke=3&theme=dark)" /><br />
+  <img src="[https://skillicons.dev/icons?i=linux,raspberrypi,vscode,neovim,python](https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perlink=3&theme=dark)" /><br />
 </div>
