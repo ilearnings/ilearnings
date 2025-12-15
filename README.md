@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- Card -->
-<table align="center" width="100%">
+<!-- Card Group -->
+<table align="center" width="100%" style="border-collapse; border-spacing: 0;">
   <tr>
-    <!-- 2. GitHub Stats Card ; https://github.com/anuraghazra/github-readme-stats -->
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none; padding: 0;">
+      <!-- 2. GitHub Stats Card ; https://github.com/anuraghazra/github-readme-stats -->
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -53,12 +53,12 @@ Here are some ideas to get you started:
         <img
           alt="gitHub-stats-card"
           src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
-          width="100%"
+          width="75%"
         />
       </picture>
     </td>
-    <!-- 3. GitHub Readme Streak Stats ; https://github.com/denvercoder1/github-readme-streak-stats -->
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none; padding: 0;">
+      <!-- 3. GitHub Readme Streak Stats Card ; https://github.com/denvercoder1/github-readme-streak-stats -->
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -69,9 +69,9 @@ Here are some ideas to get you started:
           srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=vue&user=ilearnings"
         />
         <img
-          alt="gitHub-readme-streak-stats"
+          alt="gitHub-readme-streak-stats-card"
           src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
-          width="100%"
+          width="75%"
         />
       </picture>
     </td>
