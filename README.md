@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats Card -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="left">
-  <picture>
+<div align="center">
+  <picture style="float:left; width: 49%">
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=dracula&username=ilearnings"
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Streak Stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-<div align="right">
-  <picture>
+<div align="center">
+  <picture style="float:right; width: 49%">
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=dracula&user=ilearnings"
