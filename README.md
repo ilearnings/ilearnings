@@ -15,28 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <!-- 1GitHub Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ilearnings&show_icons=true&theme=dark&hide_border=true&locale=cn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ilearnings&show_icons=true&theme=default&hide_border=true&locale=cn" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilearnings&show_icons=true&theme=default&hide_border=true&locale=cn" alt="GitHub Stats" />
-  </picture>
-  
-<!-- 3GitHub Streak Stats -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ilearnings&theme=dark&hide_border=true&locale=zh_Hans" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ilearnings&theme=default&hide_border=true&locale=zh_Hans" />
-    <img width="55%" src="https://streak-stats.demolab.com?user=ilearnings&theme=default&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
-  </picture>
-</div>
-
----
-
 <!-- GitHub Stats Card -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <div align="center">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -52,7 +33,7 @@ Here are some ideas to get you started:
       width="50%"
     />
   </picture>
-</div> -->
+</div>
 
 <!-- GitHub Readme Streak Stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
