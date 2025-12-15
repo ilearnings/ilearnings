@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Stats Card -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -29,13 +29,13 @@ Here are some ideas to get you started:
     <img
       alt="gitHub-stats-card"
       src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
-      width="35%"
+      width="50%"
     />
   </picture>
-</div>
+</div> -->
 
 <!-- GitHub Readme Streak Stats -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
       width="50%"
     />
   </picture>
-</div>
+</div> -->
 
 <!-- GitHub Contribution Grid Animation -->
 <div align="center">
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     <img
       alt="github-contribution-grid-animation"
       src="https://github.com/ilearnings/ilearnings/blob/output/github-contribution-grid-animation.svg"
-      width="95%"
+      width="100%"
     />
   </picture>
 </div>
