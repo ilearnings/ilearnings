@@ -67,12 +67,12 @@ Here are some ideas to get you started:
     <img
       alt="github-contribution-grid-animation"
       src="https://github.com/ilearnings/ilearnings/blob/output/github-contribution-grid-animation.svg"
-      width="95%"
+      width="100%"
     />
   </picture>
 </div>
 
 <!-- Technology Stack -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=3&theme=dark" /><br />
+  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
