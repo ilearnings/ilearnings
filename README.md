@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- GitHub Stats Card -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub Stats Card ; https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <picture>
     <source
@@ -35,8 +34,9 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-<!-- GitHub Readme Streak Stats -->
-<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+<br></br>
+
+<!-- GitHub Readme Streak Stats ; https://github.com/denvercoder1/github-readme-streak-stats -->
 <div align="center">
   <picture>
     <source
@@ -55,14 +55,14 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-<!-- Technology Stack -->
-<!-- https://github.com/tandpfun/skill-icons -->
+<br></br>
+
+<!-- Technology Stack ; https://github.com/tandpfun/skill-icons -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
 
-<!-- GitHub Profile Views Counter -->
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- GitHub Profile Views Counter ; https://github.com/antonkomarev/github-profile-views-counter -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="Profile Views" />
 </div>
