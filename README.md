@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!-- Card Group -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="75%">
+    <td align="center" width="50%">
       <!-- 2. GitHub Stats Card ; https://github.com/anuraghazra/github-readme-stats -->
       <picture>
         <source
@@ -53,11 +53,11 @@ Here are some ideas to get you started:
         <img
           alt="gitHub-stats-card"
           src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
-          width="75%"
+          width="100%"
         />
       </picture>
     </td>
-    <td align="center" width="75%">
+    <td align="center" width="50%">
       <!-- 3. GitHub Readme Streak Stats Card ; https://github.com/denvercoder1/github-readme-streak-stats -->
       <picture>
         <source
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
         <img
           alt="gitHub-readme-streak-stats-card"
           src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
-          width="75%"
+          width="100%"
         />
       </picture>
     </td>
