@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <br>
 
 <!-- Card Group -->
-<table align="center" width="100%" style="border-collapse; border-spacing: 0;">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="border: none; padding: 0;">
+    <td align="center" width="50%">
       <!-- 2. GitHub Stats Card ; https://github.com/anuraghazra/github-readme-stats -->
       <picture>
         <source
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
         />
       </picture>
     </td>
-    <td align="center" width="50%" style="border: none; padding: 0;">
+    <td align="center" width="50%">
       <!-- 3. GitHub Readme Streak Stats Card ; https://github.com/denvercoder1/github-readme-streak-stats -->
       <picture>
         <source
