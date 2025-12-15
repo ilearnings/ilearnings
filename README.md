@@ -83,5 +83,5 @@ Here are some ideas to get you started:
 <!-- GitHub Profile Views Counter -->
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="访问人数" />
+  <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="Profile Views" />
 </div>
