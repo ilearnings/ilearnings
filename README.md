@@ -15,25 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- GitHub Contribution Grid Animation -->
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/ilearnings/ilearnings/blob/output/github-contribution-grid-animation.svg?palette=github-dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github.com/ilearnings/ilearnings/blob/output/github-contribution-grid-animation.svg"
-    />
-    <img
-      alt="github-contribution-grid-animation"
-      src="https://github.com/ilearnings/ilearnings/blob/output/github-contribution-grid-animation.svg"
-      width="100%"
-    />
-  </picture>
-</div>
-
 <!-- GitHub Stats Card -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
@@ -77,20 +58,7 @@ Here are some ideas to get you started:
 <!-- Technology Stack -->
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=light"
-    />
-    <img
-      alt="technology-stack"
-      src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=light"
-    />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
 
 <!-- GitHub Profile Views Counter -->
