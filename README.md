@@ -23,14 +23,6 @@ Here are some ideas to get you started:
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilearnings&show_icons=true&theme=default&hide_border=true&locale=cn" alt="GitHub Stats" />
   </picture>
   
-  <!-- 2Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilearnings&layout=compact&theme=dark&hide_border=true&locale=cn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilearnings&layout=compact&theme=default&hide_border=true&locale=cn" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilearnings&layout=compact&theme=default&hide_border=true&locale=cn" alt="Top Languages" />
-  </picture>
-</div>
-
 <!-- 3GitHub Streak Stats -->
 <div align="center">
   <picture>
@@ -38,20 +30,6 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ilearnings&theme=default&hide_border=true&locale=zh_Hans" />
     <img width="55%" src="https://streak-stats.demolab.com?user=ilearnings&theme=default&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
   </picture>
-</div>
-
-<!-- 4Contribution Activity -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ilearnings/ilearnings/blob/output/github-contribution-grid-animation.svg?palette=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ilearnings/ilearnings/blob/output/github-contribution-grid-animation.svg" />
-    <img alt="GitHub Contribution Graph" src="https://github.com/ilearnings/ilearnings/blob/output/github-contribution-grid-animation.svg" width="100%" />
-  </picture>
-</div>
-
-<!-- 5x -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilearnings&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
@@ -119,4 +97,10 @@ Here are some ideas to get you started:
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
+</div>
+
+<!-- GitHub Profile Views Counter -->
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="123" />
 </div>
