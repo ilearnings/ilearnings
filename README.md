@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <img
       alt="gitHub-stats-card"
       src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
-      width="100%"
+      width="75%"
     />
   </picture>
 </div>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     <img
       alt="gitHub-readme-streak-stats"
       src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
-      width="100%"
+      width="75%"
     />
   </picture>
 </div>
