@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <!-- Card Group -->
 <table align="center" width="100%">
   <tr>
+    <!-- 2. GitHub Stats Card - https://github.com/anuraghazra/github-readme-stats -->
     <td align="center" width="50%">
-      <!-- 2. GitHub Stats Card ; https://github.com/anuraghazra/github-readme-stats -->
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
         />
       </picture>
     </td>
+    <!-- 3. GitHub Readme Streak Stats Card - https://github.com/denvercoder1/github-readme-streak-stats -->
     <td align="center" width="50%">
-      <!-- 3. GitHub Readme Streak Stats Card ; https://github.com/denvercoder1/github-readme-streak-stats -->
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- 4. Technology Stack ; https://github.com/tandpfun/skill-icons -->
+<!-- 4. Technology Stack - https://github.com/tandpfun/skill-icons -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
