@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 <br>
 
 <!-- Card Group -->
-<table align="center" width="100%">
+<table align="center" width="100%" style="border: none; boder-collapse: collapse;" cellspacing="0">
   <tr>
     <!-- 2. GitHub Stats Card - https://github.com/anuraghazra/github-readme-stats -->
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none; padding: 0;">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
       </picture>
     </td>
     <!-- 3. GitHub Readme Streak Stats Card - https://github.com/denvercoder1/github-readme-streak-stats -->
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none; padding: 0;">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
