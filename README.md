@@ -51,7 +51,7 @@ Here are some ideas to get you started:
           srcset="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=vue&username=ilearnings"
         />
         <img
-          alt="gitHub-stats-card"
+          alt="github-stats-card"
           src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
           width="100%"
         />
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
           srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=vue&user=ilearnings"
         />
         <img
-          alt="gitHub-readme-streak-stats-card"
+          alt="github-readme-streak-stats-card"
           src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
           width="100%"
         />
