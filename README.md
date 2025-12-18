@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- GitHub Stats Card - https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub Stats Card - https://github.com/anuraghazra/github-readme-stats dracula-->
 <div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=dracula&username=ilearnings"
+      srcset="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=buefy&username=ilearnings"
     />
     <source
       media="(prefers-color-scheme: light)"
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=dracula&user=ilearnings"
+      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=blood&user=ilearnings"
     />
     <source
       media="(prefers-color-scheme: light)"
