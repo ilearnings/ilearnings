@@ -93,7 +93,7 @@ Here are some ideas to get you started:
     <img
       alt="github-technology-stack"
       src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=light"
-      width="100%"
+      width="10%"
     />
   </picture>
 </div>
