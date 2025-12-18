@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 1. GitHub Contribution Grid Animation -->
+<!-- GitHub Contribution Grid Animation -->
 <div align="center">
   <picture>
     <source
@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- Card Group -->
-<!-- 2. GitHub Stats Card - https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub Stats Card - https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <picture>
     <source
@@ -51,12 +50,12 @@ Here are some ideas to get you started:
     <img
       alt="github-stats-card"
       src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
-      width="100%"
+      width="75%"
     />
   </picture>
 </div>
 
-<!-- 3. GitHub Readme Streak Stats Card - https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats Card - https://github.com/denvercoder1/github-readme-streak-stats -->
 <div align="center">
   <picture>
     <source
@@ -70,19 +69,19 @@ Here are some ideas to get you started:
     <img
       alt="github-readme-streak-stats-card"
       src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
-      width="100%"
+      width="75%"
     />
   </picture>
 </div>
 
 <br>
 
-<!-- 4. Technology Stack - https://github.com/tandpfun/skill-icons -->
+<!-- Technology Stack - https://github.com/tandpfun/skill-icons -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
 
-<!-- 5. GitHub Profile Views Counter ; https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- GitHub Profile Views Counter ; https://github.com/antonkomarev/github-profile-views-counter -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="Profile Views" /><br />
 </div>
