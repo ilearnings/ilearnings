@@ -45,11 +45,11 @@ Here are some ideas to get you started:
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
+      srcset="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=buefy&username=ilearnings"
     />
     <img
       alt="github-stats-card"
-      src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=buefy&username=ilearnings"
+      src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&show_icons=true&theme=default&username=ilearnings"
       width="75%"
     />
   </picture>
@@ -64,11 +64,11 @@ Here are some ideas to get you started:
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
+      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=buefy&user=ilearnings"
     />
     <img
       alt="github-readme-streak-stats-card"
-      src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=buefy&user=ilearnings"
+      src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
       width="75%"
     />
   </picture>
