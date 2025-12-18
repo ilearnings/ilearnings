@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=buefy&user=ilearnings"
+      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=solarized-light&user=ilearnings"
     />
     <img
       alt="github-readme-streak-stats-card"
