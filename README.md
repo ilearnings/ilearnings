@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Technology Stack - https://github.com/tandpfun/skill-icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=light" /><br />
+  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
 
 <!-- GitHub Profile Views Counter ; https://github.com/antonkomarev/github-profile-views-counter -->
