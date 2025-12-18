@@ -20,15 +20,15 @@ Here are some ideas to get you started:
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/ilearnings/ilearnings/blob/contribution-grid-animation/github-contribution-grid-animation.svg?palette=github-dark"
+      srcset="https://github.com/ilearnings/ilearnings/blob/generate-animation/github-contribution-grid-animation.svg?palette=github-dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/ilearnings/ilearnings/blob/contribution-grid-animation/github-contribution-grid-animation.svg"
+      srcset="https://github.com/ilearnings/ilearnings/blob/generate-animation/github-contribution-grid-animation.svg"
     />
     <img
       alt="github-contribution-grid-animation"
-      src="https://github.com/ilearnings/ilearnings/blob/contribution-grid-animation/github-contribution-grid-animation.svg"
+      src="https://github.com/ilearnings/ilearnings/blob/generate-animation/github-contribution-grid-animation.svg"
       width="100%"
     />
   </picture>
