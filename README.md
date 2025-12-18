@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=flag-india&user=ilearnings"
+      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=blood&user=ilearnings"
     />
     <img
       alt="github-readme-streak-stats-card"
