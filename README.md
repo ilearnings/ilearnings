@@ -78,23 +78,10 @@ Here are some ideas to get you started:
 
 <!-- GitHub Technology Stack - https://github.com/tandpfun/skill-icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
+  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=light" /><br />
 </div>
 
 <!-- GitHub Profile Views Counter ; https://github.com/antonkomarev/github-profile-views-counter -->
-<div align="right">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://komarev.com/ghpvc/?color=brightgreen&label=Andreas&style=flat&username=ilearnings"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://komarev.com/ghpvc/?color=orange&label=Andreas&style=flat&username=ilearnings"
-    />
-    <img
-      alt="github-profile-views-counter"
-      src="https://komarev.com/ghpvc/?color=brightgreen&label=Andreas&style=flat&username=ilearnings"
-    />
-  </picture>
+<div align="justify">
+  <img src="https://komarev.com/ghpvc/?color=brightgreen&label=0000000000000&style=flat&username=ilearnings" /><br />
 </div>
