@@ -1,5 +1,4 @@
-<!-- 语言: zh-CN -->
-
+# Hi there 👋 I'm Andreas Xue
 ## Hi there 👋 I'm Andreas Xue
 
 <!--
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Contribution Grid Animation -->
-<div lang="zh-CN" align="center">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
