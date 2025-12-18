@@ -64,11 +64,11 @@ Here are some ideas to get you started:
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=ilearnings&theme=vue&hide_border=true&locale=zh_Hans"
+      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
     />
     <img
       alt="github-readme-streak-stats-card"
-      src="https://streak-stats.demolab.com/?user=ilearnings&theme=default&hide_border=true&locale=zh_Hans"
+      src="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=default&user=ilearnings"
       width="75%"
     />
   </picture>
