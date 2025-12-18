@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=solarized-light&user=ilearnings"
+      srcset="https://streak-stats.demolab.com/?hide_border=true&locale=zh_Hans&theme=ayu-light&user=ilearnings"
     />
     <source
       media="(prefers-color-scheme: light)"
