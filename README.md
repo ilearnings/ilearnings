@@ -77,43 +77,24 @@ Here are some ideas to get you started:
 <br>
 
 <!-- GitHub Technology Stack - https://github.com/tandpfun/skill-icons -->
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
-</div> -->
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=light"
-    />
-    <img
-      alt="github-technology-stack"
-      src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=light"
-    />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=dark" /><br />
 </div>
 
 <!-- GitHub Profile Views Counter ; https://github.com/antonkomarev/github-profile-views-counter -->
-<!-- <div align="right">
-  <img src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings" alt="Profile Views" /><br />
-</div> -->
 <div align="right">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings"
+      srcset="https://komarev.com/ghpvc/?color=brightgreen&label=Andreas&style=flat&username=ilearnings"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://komarev.com/ghpvc/?color=brightgreen&style=plastic&username=ilearnings"
+      srcset="https://komarev.com/ghpvc/?color=orange&label=Andreas&style=flat&username=ilearnings"
     />
     <img
       alt="github-profile-views-counter"
-      src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings"
+      src="https://komarev.com/ghpvc/?color=brightgreen&label=Andreas&style=flat&username=ilearnings"
     />
   </picture>
 </div>
