@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Andreas Xue
-## Hi there 👋 I'm Andreas Xue
 
 <!--
 **ilearnings/ilearnings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
