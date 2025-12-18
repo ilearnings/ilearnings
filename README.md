@@ -93,7 +93,6 @@ Here are some ideas to get you started:
     <img
       alt="github-technology-stack"
       src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,vscode,neovim,git,github,bash,python&perline=10&theme=light"
-      width="10%"
     />
   </picture>
 </div>
@@ -115,7 +114,6 @@ Here are some ideas to get you started:
     <img
       alt="github-profile-views-counter"
       src="https://komarev.com/ghpvc/?color=orange&style=plastic&username=ilearnings"
-      width="100%"
     />
   </picture>
 </div>
